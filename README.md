@@ -1,12 +1,11 @@
-# Penerapan Data Science - Submission 1 - Human Resource Attrition
-## [Background](https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee)
+# First Submission: Solving Human Resource Problem
+## Business Understanding
 Jaya Jaya Maju, a multinational company established in 2000 with over 1,000 employees across Indonesia, is facing a significant challenge with its employee attrition rate exceeding 10%. This high turnover suggests potential issues with job satisfaction, career management, compensation, or overall working conditions, leading to financial and productivity losses.
 
 To address this, the HR department requires a data-driven dashboard to monitor and analyze the factors causing high attrition. This tool will help them visualize current trends and take corrective action. Additionally, they need a machine learning model to predict which employees are likely to leave.
 
-## Problem Statements
+### Business Problems
 > 📊 Business Problem 1: **How is the relationship between the variables or factors from the available data and employee attrition?**
-
 
 🔍 It's important to understand how different things about employees and their jobs connect to whether they leave the company. By seeing these connections, the company can get a clearer picture of what might make someone stay or go, which helps in making smarter decisions to keep their workforce happy and stable.
 
@@ -17,6 +16,8 @@ To address this, the HR department requires a data-driven dashboard to monitor a
 > 🔮 Business Problem 3: **How to predict the risk of employee attrition before employees actually leave the company?**
 
 🚨 If the company can get an early warning that someone might be thinking of leaving, they can talk to that employee and try to fix any issues. This gives them a chance to keep good people from walking out the door.
+
+### Project Scope
 
 ## Business Dashboard
 Dashboard for this project was developed using Looker Studio. It can be seen in this [Link](https://lookerstudio.google.com/reporting/1c83537d-9f4f-473f-b7a1-0e7dd37fd4d7) (login google account is required).
