@@ -18,6 +18,16 @@ To address this, the HR department requires a data-driven dashboard to monitor a
 🚨 If the company can get an early warning that someone might be thinking of leaving, they can talk to that employee and try to fix any issues. This gives them a chance to keep good people from walking out the door.
 
 ### Project Scope
+1. Creating an interactive business dashboard using Looker Studio, which displays:
+    - General Attrition Statistics (overview, department)
+    - Job Demands & Role Analysis (job role, overtime, business travel)
+    - Employee Satisfaction & Engagement Analysis (job satisfaction, environment satisfaction, job involvement, work life balance)
+    - Career History & Growth Analysis (total working years, number of companies worked, years since last promotion, training times last year)
+    - Financial & External Factors Analysis (stock option level, distance from home)
+2. Developing machine learning model to predict employee attrition
+
+### Preparation
+Data Source: [JayaJayaMaju Dataset - Dicoding](https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee)
 
 ## Business Dashboard
 Dashboard for this project was developed using Looker Studio. It can be seen in this [Link](https://lookerstudio.google.com/reporting/1c83537d-9f4f-473f-b7a1-0e7dd37fd4d7) (login google account is required).
